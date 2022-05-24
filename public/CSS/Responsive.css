@@ -1,0 +1,1154 @@
+@media screen and (max-width: 1096px) {
+    #navbar .links a {
+        margin: 0 11px;
+        font-size: 13px;
+    }
+}
+
+        /* Home */
+@media screen and (max-width: 1042px) {
+    /* First Section */
+    #firstSection{
+        margin: 0;
+    }
+
+    .bannerSection h1{
+        font-size: 36px;
+    }
+
+    .textSection{
+        padding: 0 130px;
+    }
+
+    .textSection p{
+        font-size: 19px;
+        line-height: 37px;
+    }
+    /* First Section */
+
+}
+
+@media screen and (max-width: 1025px) {
+    #big-hero .bh-magic .text-title {
+        font-size: 30px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 956px){
+    #navbar {
+        width: 95%;
+    }
+}
+
+
+@media screen and (max-width: 924px) {
+    /* First Section */
+    .bannerSection h1{
+        font-size: 32px;
+    }
+
+    .bannerSection img{
+        height: 400px;
+    }
+
+    .textSection{
+        padding: 0 100px;
+    }
+
+    .textSection p{
+        font-size: 17px;
+        line-height: 32px;
+    }
+    /* First Section */
+}
+
+@media screen and (max-width: 847px) {
+    #big-hero .bh-magic .text-subtitle {
+        font-size: 17px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    #big-hero .bh-magic .text-title {
+        font-size: 25px;
+    }
+
+    #big-hero .bh-magic .text-subtitle {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    #navbar {
+        width: 75%;
+    }
+
+    #navbar .links{
+        display: none;
+    }
+
+    #navbar .hamburger{
+        display: flex;
+        z-index: 1000;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    /* First Section */
+    .bannerSection{
+        height: 530px;
+    }
+
+    .bannerSection h1{
+        font-size: 28px;
+    }
+
+    .bannerSection img{
+        height: 400px;
+    }
+
+    .textSection{
+        padding: 0 90px;
+    }
+    /* First Section */
+}
+
+@media screen and (max-width: 670px) {
+    #prices {
+        width: 210px;
+        padding-left: 12px;
+    }
+
+    #prices .liveCard {
+        width: 210px;
+    }
+
+    #prices #arrow {
+        top: 33px;
+        left: -75px;
+    }
+
+    #combo {
+        width: 150px;
+    }
+
+    #titlePrices {
+        margin-top: 5px;
+        font-size: 20px;
+    }
+
+    #titlePrices .iconify {
+        font-size: 23px;
+    }
+
+    .infoMineral p {
+        padding-right: 10px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 492px) {
+    .heroContain {
+        height: 400px;
+    }
+
+    #big-hero .bh-magic .back-image {
+        object-fit: cover;
+    }
+}
+
+@media screen and (max-width: 818px) {
+    /* Second Section */
+    #secondSection{
+        height: 100%;
+        padding: 50px 0 60px 0;
+    }
+
+    #contentSection{
+        flex-direction: column;
+    }
+    
+    #secondSection .title{
+        padding-top: 20px;
+        padding-bottom: 15px;
+        text-align: center;
+        top: 0;
+    }
+
+    .services li{
+        top: 40px;
+        left: 0;
+        text-align: center;
+    }
+
+    #contentSection .services{
+        width: 100%;
+        height: 100%;
+        align-items: center;
+    }
+
+    #contentSection .imageRight{
+        width: 100%;
+        height: 100%;
+        margin-top: 60px;
+    }
+
+    .imageRight img{
+        width: 470px;
+    }
+    /* Second Section */
+}
+
+@media screen and (max-width: 629px) {
+    /* First Section */
+
+    section {
+        height: 700px;
+    }
+
+    .bannerSection {
+        height: 480px;
+    }
+
+    .bannerSection img {
+        width: 90%;
+        height: 390px;
+    }
+
+    .textSection{
+        padding: 0 50px;
+    }
+
+    .gradient {
+        height: 470px;
+    }
+
+    #bannerAbout {
+        background-position: center -100px;
+    }
+
+    .gradient::before {
+        height: 470px;
+    }
+    /* First Section */
+}
+
+@media screen and (max-width: 610px) {
+    #big-hero .bh-magic .text-title {
+        font-size: 20px;
+    }
+
+    #big-hero .bh-magic .text-subtitle {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    /* Second Section */
+    .imageRight img{
+        width: 400px;
+    }
+    /* Second Section */
+}
+
+@media screen and (max-width: 592px) {
+    #bannerServices {
+        background-size: 900px 600px;
+        background-position: -100px top;
+    }
+}
+
+@media screen and (max-width: 501px) {
+    .heroContain .content h1 {
+        font-size: 30px;
+        text-align: center;   
+    }
+    
+    /* First Section */
+    .textSection{
+        padding: 0 20px;
+    }
+    
+    .textSection p{
+        font-size: 15px;
+        line-height: 33px;
+    }
+}
+
+@media screen and (max-width: 328px) {
+    .textSection p {
+        font-size: 14px;
+        line-height: 31px;
+    }
+}
+
+@media screen and (max-width: 492px) {
+    .gradient {
+        height: 400px;
+    }
+
+    .gradient::before{
+        height: 400px;
+    }
+
+    #bannerAbout {
+        background-size: 610px 400px;
+        background-position: unset;
+    }
+
+    #big-hero .bh-magic {
+        max-height: 400px;
+        height: 400px;
+    }
+
+    #big-hero .bh-magic .text-title {
+        text-align: center;
+        background-color: transparent;
+    }
+
+    #big-hero .bh-magic .text-subtitle {
+        text-align: center;
+        top: 240px;
+    }
+}
+
+@media screen and (max-width: 422px) {
+    .imageRight img {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #navbar .hamburger {
+        margin-right: 20px;
+    }
+
+    .bannerSection {
+        height: 400px;
+    }
+
+    .bannerSection img {
+        width: 90%;
+        height: 330px;
+        object-fit: cover;
+    }
+    /* First Section */
+
+    #navbar .logo {
+        width: 110px;
+        height: 60px;
+    }
+
+    .logo img {
+        transform: scale(2);
+    }
+}
+
+            /* Home */
+
+/* About */
+
+@media screen and (max-width: 1078px) {
+    #firstAbout{
+        height: 900px;
+    }
+    .primary {
+        flex-direction: column;
+    }
+
+    .primary .left {
+        width: 100%;
+        height: 300px;
+        background-color: #ededed;
+    }
+
+    .primary img {
+        width: 60%;
+        height: 80%;
+    }
+
+    .primary .right {
+        width: 100%;
+        height: 400px;
+        flex-direction: row;
+    }
+
+    #firstText {
+        width: 50%;
+        margin-bottom: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #firstText h2{
+        top: -10px;
+        padding-left: 0;
+    }
+
+    #firstText p {
+        line-height: 34px;
+    }
+
+    #secondText {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #secondText h2 {
+        padding-left: 0;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    #secondText .values {
+        width: 350px;
+        grid-template-columns: 170px 170px;
+        grid-template-rows: 30px 30px;
+        column-gap: 10px;
+        row-gap: 10px;
+    }
+
+    #secondText li {
+        line-height: normal;
+    }
+}
+
+@media screen and (max-width: 1020px) {
+    #secondAbout {
+        height: 700px;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 858px) {
+    #firstText h2{
+        font-size: 22px;
+    }
+
+    #secondText h2{ 
+        font-size: 22px;
+    }
+
+    #firstText p {
+        font-size: 14px;
+    }
+
+    #secondText li {
+        font-size: 14px;
+    }
+    
+    .moreUs{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 802px) {
+    .mission h2,
+    .vision h2 {
+        font-size: 22px;
+    }
+
+    .mission p,
+    .vision p {
+        font-size: 15px;
+    }
+
+    .vision #eyes, 
+    .mission #focus {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 763px) {
+    #secondText .values {
+        width: 290px;
+        grid-template-columns: 140px 140px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .moreUs{
+        width: 90%;
+    }
+
+    .moreUs li{
+        line-height: 25px;
+    }
+}
+
+@media screen and (max-width: 646px) {
+    #firstAbout{
+        height: 900px;
+    }
+
+    .primary .left{
+        height: 350px;
+    }
+
+    .primary .right{
+        height: 350px;
+    }
+
+    #firstText p {
+        line-height: 26px;
+    }
+
+    #firstAbout{
+        height: 1050px;
+    }
+
+    .primary .right {
+        height: 500px;
+        flex-direction: column;
+    }
+
+    #firstText{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    #secondText{
+        width: 100%;
+    }
+
+    #secondAbout{
+        height: 100%;
+        padding: 80px 0;    
+    }
+
+    .moreUs li{
+        line-height: 27px;
+    }
+
+    #secondText .values {
+        width: 350px;
+        grid-template-columns: 170px 170px;
+        grid-template-rows: 30px 30px;
+    }
+}
+
+@media screen and (max-width: 534px) {
+    #firstAbout {
+        height: 1250px;
+    }
+
+    .primary img {
+        width: 90%;
+    }
+
+    .bottom {
+        flex-direction: column;
+    }
+
+    .mission,
+    .vision {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 383px) {
+    #secondText .values {
+        width: 270px;
+        grid-template-columns: 130px 130px;
+        grid-template-rows: 30px 40px;
+        row-gap: 15px;
+        column-gap: 10px;
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 368px) {
+    .moreUs h2{
+        font-size: 18px;
+    }
+
+    .moreUs p{
+        font-size: 13px;
+    }
+
+    .moreUs h4{
+        font-size: 15px;
+    }
+
+    .moreUs li{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 338px) {
+    .mission p, .vision p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 323px) {
+    .moreUs h2 {
+        font-size: 17,5px;
+    }
+
+    .moreUs p {
+        font-size: 12px;
+    }
+
+    .moreUs h4 {
+       font-size: 13px; 
+    }
+
+    .moreUs li {
+        font-size: 13px;
+    }
+}
+
+/* Services */
+
+/* firstServices */
+
+@media screen and (max-width: 1118px) {
+    #supply h3, #procedure h3 {
+        font-size: 17px;
+    }
+    
+    #supply p, #procedure p {
+        text-align: center;
+        font-size: 14px;
+    }
+
+    #supply p:nth-of-type(3) {
+        padding: 10px 20px;
+        font-size: 13px;
+    }
+
+    #supply li {
+        line-height: 19px;
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    #firstServices {
+        height: 1000px;
+    }
+
+    .containerOne ul {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    #firstServices .containerTwo{
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 734px) {
+    #firstServices {
+        margin: 50px 0;
+    }
+}
+
+@media screen and (max-width: 592px) {
+    #firstServices .containerTwo{
+        height: 390px;
+    }
+
+    .containerOne h2 {
+        font-size: 20px;
+    }
+
+    .containerOne p {
+        font-size: 16px;
+    }
+
+    .containerOne li {
+        font-size: 15px;
+        line-height: 23px;
+    }
+}
+
+@media screen and (max-width: 444px) {
+    .containerOne li {
+        line-height: 24px;
+    }
+
+    .containerTwo img {
+        height: 340px;
+    }
+}
+
+@media screen and (max-width: 419px) {
+    .containerOne h2 {
+        font-size: 18px;
+        text-align: center;
+        padding-left: 0;
+    }
+
+    .containerOne p {
+        font-size: 14px;
+        text-align: center;
+        padding-left: 20px;
+    }
+
+    .containerOne li {
+        line-height: 20px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 364px) {
+    #bannerServices {
+        background-position: -194px top;
+    }
+
+    #firstServices {
+        height: 880px;
+    }
+
+    .containerOne h2 {
+        padding-left: 0;
+        text-align: center;
+        font-size: 19px;
+        top: 2px;
+    }
+
+    .containerOne p {
+        font-size: 14px;
+        text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-weight: 500;
+        top: 10px;
+    }
+
+    .containerOne ul {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .containerOne li {
+        font-size: 13px;
+        line-height: 23px;
+        text-align: justify;
+    }
+}
+
+/* Second Services */
+
+@media screen and (max-width: 1126px) {
+    #secondServices{
+        height: 1151px;
+    }
+
+    #secondServices .gridTable {
+        width: 560px;
+        height: 1101px;
+        grid-template-columns: 275px 275px;
+    }
+
+    .gridTable .column:nth-child(2) {
+        border-right: none;
+    }
+
+    .gridTable .column p {
+        font-size: 13.2px;
+    }
+}
+
+@media screen and (max-width: 1034px) {
+    #firstServices {
+        height: 400px;
+    }
+
+    #firstServices .containerTwo {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 592px) {
+    #firstServices {
+        margin: 0;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 565px) {
+    #secondServices {
+        height: 2090px;
+    }
+
+    #secondServices .gridTable {
+        width: 290px;
+        height: 2040px;
+        grid-template-columns: 275px;
+    }
+
+    .gridTable .column {
+        border-right: none;
+    }
+
+    .gridTable .column p {
+        font-size: 12.9px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    #firstServices {
+        height: 550px;
+    }
+}
+
+@media screen and (max-width: 396px) {
+    .gridTable .column p {
+        font-size: 12.6px;
+    }
+}
+
+/* Three Services */
+
+@media screen and (max-width: 870px) {
+    #threeServices {
+        height: 100%;
+        flex-direction: column;
+    }
+
+    #threeServices #supply, #threeServices #procedure {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    #supply p, #procedure p {
+        margin-top: 10px;
+    }
+
+    #supply ol {
+        padding: 0 50px;
+    }
+
+    #supply li {
+        padding-bottom: 8px;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 435px) {
+    #supply h3, #procedure h3 {
+        font-size: 16px;
+    }
+
+    #supply p, #procedure p {
+        font-size: 13px;
+    }
+
+    #supply li {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 386px) {
+    #supply h3, #procedure h3 {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    #supply h3, #procedure h3 {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+
+    #supply p, #procedure p {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    #supply img, #procedure img {
+        width: 80%;
+        height: 240px;
+    }
+
+    #supply li {
+        padding-bottom: 2px;
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+    #footer .licensed img {
+        height: 169px;
+    }
+}
+
+/* Products */
+
+/* Area: Gold */
+
+@media screen and (max-width: 1042px) {
+    #productGold {
+        flex-wrap: wrap;
+        justify-content: center;
+        height: 650px;
+    }
+
+    #productGold img {
+        width: 600px;
+    }
+}
+
+@media screen and (max-width: 606px) {
+    #productGold img {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 554px) {
+    #productGold img {
+        width: 450px;
+        height: 350px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #productGold img {
+        width: 400px;
+        height: 300px;
+    }
+
+    #productGold h2 {
+        font-size: 34px;
+    }
+}
+
+@media screen and (max-width: 411px) {
+    #productGold img {
+        width: 370px;
+    }
+    
+    #productGold .info p {
+        font-size: 18px;
+    }
+
+    #productGold .info p {
+        line-height: 27px;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 369px) {
+    #productGold img {
+        width: 350px;
+        height: 270px;
+    }
+
+    #productGold .info p {
+        padding: 20px 10px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    #productGold img {
+        width: 330px;
+        height: 250px;
+    }
+
+    #productGold .info {
+        padding: 0 20px;
+    }
+}
+
+@media screen and (max-width: 330px) {
+    #productGold img {
+        width: 300px;
+        height: 210px;
+    }
+}
+
+@media screen and (max-width: 318px) {
+    #productGold .info {
+        padding: 0 15px;
+    }
+}
+
+/* FORM CONTACT */
+
+@media screen and (max-width: 912px) {
+    #contactForm {
+        height: 1200px;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    #contactForm .containForm {
+        width: 100%;
+        border-top-right-radius: 8px;
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 0;
+    }
+
+    #contactForm .date {
+        width: 100%;
+        align-items: center;
+        border-bottom-right-radius: 8px;
+        border-bottom-left-radius: 8px;
+        border-top-right-radius: 0;
+    }
+
+    #contact .date p {
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 630px) {
+    #bannerContact {
+        background-position: center -100px;
+    }
+}
+
+@media screen and (max-width: 506px) {
+    form input[type='text'], 
+    form #email {
+        width: 300px;
+    }
+
+    #bannerContact {
+        background-position: -220px center;
+    }
+}
+
+@media screen and (max-width: 428px) {
+    #contact .date p {
+        font-size: 13px;
+    }
+
+    #contactForm .date #maps {
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 408px) {
+    form input[type='text'], 
+    form #email {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    #contact .date h2 {
+        font-size: 22px;
+    }
+}
+
+/* Footer */
+@media screen and (max-width: 970px) {
+    #footer .data {
+        padding-left: 60px;
+    }
+
+    .footerImg p {
+        padding: 0 50px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 782px) {
+    .data h3,
+    .contact h3 {
+        font-size: 16px;
+    }
+
+    .sections ul:nth-child(2) {
+        margin-left: 60px;
+    }
+
+    .sections ul a {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 670px) {
+    #footer {
+        height: 500px;
+    }
+
+    #footer #content{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #footer .data {
+        width: 100%;
+        padding-left: 60px;
+        padding-right: 60px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .data h3 {
+        font-size: 23px;
+    }
+
+    .sections ul:nth-child(2) {
+        margin-left: 60px;
+    }
+
+    .sections ul a {
+        font-size: 18px;
+    }
+
+    .licensed {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .licensed .footerImg {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footerImg img {
+        width: 60%;
+        height: 100%;
+    }
+
+    .footerImg p {
+        font-size: 18px;
+    }
+
+    .copyright {
+        margin-top: 55px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .data h3 {
+        font-size: 18px;
+    }
+
+    .sections ul a {
+        font-size: 16px;
+    }
+
+    .footerImg p {
+        font-size: 16px;
+    }
+
+    .copyright p {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 362px) {
+    .footerImg img {
+        width: 100%;
+    }
+}
